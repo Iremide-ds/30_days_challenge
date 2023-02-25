@@ -1,0 +1,27 @@
+{
+  "name": "coding_challenge",
+  "version": "1.0.0",
+  "description": "A coding challenge to improve coding skill",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iremide-ds/30_days_challenge.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "iremide adeboye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iremide-ds/30_days_challenge/issues"
+  },
+  "homepage": "https://github.com/Iremide-ds/30_days_challenge#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.1"
+  }
+}
