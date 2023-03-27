@@ -22,4 +22,4 @@ console.log((0, second_largest_1.default)(randArr));
 //day five
 console.log((0, check_prime_number_1.default)(1));
 //day six
-console.log((0, sort_array_1.default)(["gut", "keg", "ant"]));
+console.log(`sorted array - ${(0, sort_array_1.default)([1, 2, 5, 3, 2])}`);

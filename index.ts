@@ -23,4 +23,4 @@ console.log(checkForSecondLargestNumber(randArr));
 console.log(isPrimeNumber(1));
 
 //day six
-console.log(sortAsc(["gut", "keg", "ant"]));
+console.log(`sorted array - ${sortAsc([1,2,5,3,2])}`);
