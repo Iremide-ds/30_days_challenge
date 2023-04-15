@@ -30,5 +30,5 @@ console.log(`sorted array - ${sortAsc([1, 2, 5, 3, 2])}`);
 // day seven
 console.log(`clean array = ${removeDups([1, "2", 4, 5, 5, "2", 1, 4, 3, 5])}`);
 
-// day seven
+// day eight
 console.log(`sum of all elements in array = ${sumAllElements([1, 2, 4, "5"])}`);
