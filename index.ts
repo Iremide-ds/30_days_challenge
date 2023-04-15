@@ -6,6 +6,7 @@ import isPrimeNumber from "./day_5/check_prime_number";
 import sortAsc from "./day_6/sort_array";
 import removeDups from "./day_7/remove_duplicates";
 import sumAllElements from "./day_8/sum_all_elements";
+import findAverage from "./day_9/average_in_arrray";
 
 //day one
 console.log(findFactorial(10));
@@ -31,4 +32,7 @@ console.log(`sorted array - ${sortAsc([1, 2, 5, 3, 2])}`);
 console.log(`clean array = ${removeDups([1, "2", 4, 5, 5, "2", 1, 4, 3, 5])}`);
 
 // day eight
-console.log(`sum of all elements in array = ${sumAllElements([1, 2, 4, "5"])}`);
+console.log(`sum of all elements in array = ${sumAllElements([1, 2, 4])}`);
+
+// day nine
+console.log(`Average of all elements in array = ${findAverage([1, 2, 4])}`);
