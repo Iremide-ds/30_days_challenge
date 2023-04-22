@@ -36,3 +36,6 @@ console.log(`sum of all elements in array = ${sumAllElements([1, 2, 4])}`);
 
 // day nine
 console.log(`Average of all elements in array = ${findAverage([1, 2, 4])}`);
+
+// day ten
+console.log(`reversed string = ${reverseString("hello")}`);
