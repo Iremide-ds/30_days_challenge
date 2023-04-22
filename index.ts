@@ -7,6 +7,7 @@ import sortAsc from "./day_6/sort_array";
 import removeDups from "./day_7/remove_duplicates";
 import sumAllElements from "./day_8/sum_all_elements";
 import findAverage from "./day_9/average_in_arrray";
+import reverseString from "./day_10/reverse_string";
 
 //day one
 console.log(findFactorial(10));

@@ -12,6 +12,7 @@ const sort_array_1 = __importDefault(require("./day_6/sort_array"));
 const remove_duplicates_1 = __importDefault(require("./day_7/remove_duplicates"));
 const sum_all_elements_1 = __importDefault(require("./day_8/sum_all_elements"));
 const average_in_arrray_1 = __importDefault(require("./day_9/average_in_arrray"));
+const reverse_string_1 = __importDefault(require("./day_10/reverse_string"));
 //day one
 console.log((0, factorial_1.default)(10));
 //day two
@@ -29,6 +30,8 @@ console.log(`sorted array - ${(0, sort_array_1.default)([1, 2, 5, 3, 2])}`);
 // day seven
 console.log(`clean array = ${(0, remove_duplicates_1.default)([1, "2", 4, 5, 5, "2", 1, 4, 3, 5])}`);
 // day eight
-console.log(`sum of all elements in array = ${(0, sum_all_elements_1.default)([1, 2, 4, "5"])}`);
+console.log(`sum of all elements in array = ${(0, sum_all_elements_1.default)([1, 2, 4])}`);
 // day nine
 console.log(`Average of all elements in array = ${(0, average_in_arrray_1.default)([1, 2, 4])}`);
+// day ten
+console.log(`reversed string = ${(0, reverse_string_1.default)("hello")}`);

@@ -5,3 +5,5 @@ const reverseString = (str: string): string => {
 
   return reversed.join("");
 };
+
+export default reverseString;
